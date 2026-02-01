@@ -1,8 +1,7 @@
 {
-  "content": "content",
+  "content": "content/english",
   "media": "assets/images",
   "public": "static",
-  "code": "themes/hugoplate/layouts",
   "configs": [
     "config/_default",
     "hugo.toml",
