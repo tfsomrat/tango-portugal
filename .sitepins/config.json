@@ -1,12 +1,11 @@
 {
-  "content": "content/english",
   "media": "assets/images",
-  "public": "static",
+  "content": "content/english",
   "configs": [
     "config/_default",
     "hugo.toml",
     "data"
   ],
-  "custom-commit": true,
-  "arrangement": []
+  "arrangement": [],
+  "custom-commit": false
 }
